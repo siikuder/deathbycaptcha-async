@@ -1,0 +1,19 @@
+{
+  "name": "deathbycaptcha",
+  "version": "1.0.0",
+  "description": "DeathByCaptcha Asynchronus",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siikuder/deathbycaptcha-async.git"
+  },
+  "author": "dbc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siikuder/deathbycaptcha-async/issues"
+  },
+  "homepage": "https://github.com/siikuder/deathbycaptcha-async#readme"
+}
